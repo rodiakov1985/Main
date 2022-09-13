@@ -1,1 +1,1 @@
-
+ANumber=float(input("Введите число:"))
