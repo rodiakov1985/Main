@@ -1,1 +1,4 @@
-ANumber=float(input("Введите число:"))
+ANumber=float(input("What is Bitcoin price today?:"))
+BNumber=float(input("How much $ do you have?:"))
+CNumber=BNumber/ANumber
+print("You can buy:",CNumber,"BTC")
